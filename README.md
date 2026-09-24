@@ -2,11 +2,13 @@
 
 株式会社BIG TREE向けの画面確認用試作です。GitHub Pagesでは以下の3案を同じデータと操作で比較できます。
 
-| 案 | コンセプト | 公開予定パス |
+| 案 | コンセプト | 公開URL |
 | --- | --- | --- |
-| A | やさしい配色の現行案 | `/a/` |
-| B | 紺と青緑の情報設計型 | `/b/` |
-| C | 生成りと深緑の読み物型 | `/c/` |
+| A | やさしい配色の現行案 | https://makoban.github.io/bigtree-partner-directory-preview/a/ |
+| B | 紺と青緑の情報設計型 | https://makoban.github.io/bigtree-partner-directory-preview/b/ |
+| C | 生成りと深緑の読み物型 | https://makoban.github.io/bigtree-partner-directory-preview/c/ |
+
+[3案の比較ページ](https://makoban.github.io/bigtree-partner-directory-preview/)も公開しています。
 
 各案は「医療施設／介護施設を選ぶ → 5市から選ぶ → 施設一覧を見る」の動線を持ちます。施設のサイト画像と「公式HPを見る」ボタンは、公開されている同じURLにリンクします。
 
